@@ -28,176 +28,176 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
+            this.Txt1 = new System.Windows.Forms.TextBox();
+            this.bir = new System.Windows.Forms.Button();
+            this.iki = new System.Windows.Forms.Button();
+            this.uc = new System.Windows.Forms.Button();
+            this.dort = new System.Windows.Forms.Button();
+            this.bes = new System.Windows.Forms.Button();
+            this.alti = new System.Windows.Forms.Button();
+            this.yedi = new System.Windows.Forms.Button();
+            this.sekiz = new System.Windows.Forms.Button();
+            this.dokuz = new System.Windows.Forms.Button();
+            this.sifir = new System.Windows.Forms.Button();
+            this.clear = new System.Windows.Forms.Button();
+            this.topla = new System.Windows.Forms.Button();
+            this.cikar = new System.Windows.Forms.Button();
+            this.bol = new System.Windows.Forms.Button();
+            this.carp = new System.Windows.Forms.Button();
+            this.esittir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // Txt1
             // 
-            this.textBox1.Location = new System.Drawing.Point(172, 59);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(346, 66);
-            this.textBox1.TabIndex = 0;
+            this.Txt1.Location = new System.Drawing.Point(172, 59);
+            this.Txt1.Multiline = true;
+            this.Txt1.Name = "Txt1";
+            this.Txt1.Size = new System.Drawing.Size(346, 66);
+            this.Txt1.TabIndex = 0;
             // 
-            // button1
+            // bir
             // 
-            this.button1.Location = new System.Drawing.Point(91, 191);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(64, 47);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.bir.Location = new System.Drawing.Point(91, 191);
+            this.bir.Name = "bir";
+            this.bir.Size = new System.Drawing.Size(64, 47);
+            this.bir.TabIndex = 1;
+            this.bir.Text = "1";
+            this.bir.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // iki
             // 
-            this.button2.Location = new System.Drawing.Point(185, 191);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(64, 47);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.iki.Location = new System.Drawing.Point(185, 191);
+            this.iki.Name = "iki";
+            this.iki.Size = new System.Drawing.Size(64, 47);
+            this.iki.TabIndex = 2;
+            this.iki.Text = "2";
+            this.iki.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // uc
             // 
-            this.button3.Location = new System.Drawing.Point(288, 191);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(64, 47);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.uc.Location = new System.Drawing.Point(288, 191);
+            this.uc.Name = "uc";
+            this.uc.Size = new System.Drawing.Size(64, 47);
+            this.uc.TabIndex = 3;
+            this.uc.Text = "3";
+            this.uc.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // dort
             // 
-            this.button4.Location = new System.Drawing.Point(91, 272);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(64, 47);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
+            this.dort.Location = new System.Drawing.Point(91, 272);
+            this.dort.Name = "dort";
+            this.dort.Size = new System.Drawing.Size(64, 47);
+            this.dort.TabIndex = 4;
+            this.dort.Text = "4";
+            this.dort.UseVisualStyleBackColor = true;
             // 
-            // button5
+            // bes
             // 
-            this.button5.Location = new System.Drawing.Point(185, 272);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(64, 47);
-            this.button5.TabIndex = 5;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
+            this.bes.Location = new System.Drawing.Point(185, 272);
+            this.bes.Name = "bes";
+            this.bes.Size = new System.Drawing.Size(64, 47);
+            this.bes.TabIndex = 5;
+            this.bes.Text = "5";
+            this.bes.UseVisualStyleBackColor = true;
             // 
-            // button6
+            // alti
             // 
-            this.button6.Location = new System.Drawing.Point(288, 272);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(64, 47);
-            this.button6.TabIndex = 6;
-            this.button6.Text = "button6";
-            this.button6.UseVisualStyleBackColor = true;
+            this.alti.Location = new System.Drawing.Point(288, 272);
+            this.alti.Name = "alti";
+            this.alti.Size = new System.Drawing.Size(64, 47);
+            this.alti.TabIndex = 6;
+            this.alti.Text = "6";
+            this.alti.UseVisualStyleBackColor = true;
             // 
-            // button7
+            // yedi
             // 
-            this.button7.Location = new System.Drawing.Point(91, 343);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(64, 47);
-            this.button7.TabIndex = 7;
-            this.button7.Text = "button7";
-            this.button7.UseVisualStyleBackColor = true;
+            this.yedi.Location = new System.Drawing.Point(91, 343);
+            this.yedi.Name = "yedi";
+            this.yedi.Size = new System.Drawing.Size(64, 47);
+            this.yedi.TabIndex = 7;
+            this.yedi.Text = "7";
+            this.yedi.UseVisualStyleBackColor = true;
             // 
-            // button8
+            // sekiz
             // 
-            this.button8.Location = new System.Drawing.Point(185, 343);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(64, 47);
-            this.button8.TabIndex = 8;
-            this.button8.Text = "button8";
-            this.button8.UseVisualStyleBackColor = true;
+            this.sekiz.Location = new System.Drawing.Point(185, 343);
+            this.sekiz.Name = "sekiz";
+            this.sekiz.Size = new System.Drawing.Size(64, 47);
+            this.sekiz.TabIndex = 8;
+            this.sekiz.Text = "8";
+            this.sekiz.UseVisualStyleBackColor = true;
             // 
-            // button9
+            // dokuz
             // 
-            this.button9.Location = new System.Drawing.Point(288, 343);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(64, 47);
-            this.button9.TabIndex = 9;
-            this.button9.Text = "button9";
-            this.button9.UseVisualStyleBackColor = true;
+            this.dokuz.Location = new System.Drawing.Point(288, 343);
+            this.dokuz.Name = "dokuz";
+            this.dokuz.Size = new System.Drawing.Size(64, 47);
+            this.dokuz.TabIndex = 9;
+            this.dokuz.Text = "9";
+            this.dokuz.UseVisualStyleBackColor = true;
             // 
-            // button10
+            // sifir
             // 
-            this.button10.Location = new System.Drawing.Point(185, 409);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(64, 47);
-            this.button10.TabIndex = 10;
-            this.button10.Text = "button10";
-            this.button10.UseVisualStyleBackColor = true;
+            this.sifir.Location = new System.Drawing.Point(185, 409);
+            this.sifir.Name = "sifir";
+            this.sifir.Size = new System.Drawing.Size(64, 47);
+            this.sifir.TabIndex = 10;
+            this.sifir.Text = "0";
+            this.sifir.UseVisualStyleBackColor = true;
             // 
-            // button11
+            // clear
             // 
-            this.button11.Location = new System.Drawing.Point(288, 409);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(64, 47);
-            this.button11.TabIndex = 11;
-            this.button11.Text = "button11";
-            this.button11.UseVisualStyleBackColor = true;
+            this.clear.Location = new System.Drawing.Point(288, 409);
+            this.clear.Name = "clear";
+            this.clear.Size = new System.Drawing.Size(64, 47);
+            this.clear.TabIndex = 11;
+            this.clear.Text = "C";
+            this.clear.UseVisualStyleBackColor = true;
             // 
-            // button12
+            // topla
             // 
-            this.button12.Location = new System.Drawing.Point(391, 191);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(64, 47);
-            this.button12.TabIndex = 12;
-            this.button12.Text = "button12";
-            this.button12.UseVisualStyleBackColor = true;
+            this.topla.Location = new System.Drawing.Point(391, 191);
+            this.topla.Name = "topla";
+            this.topla.Size = new System.Drawing.Size(64, 47);
+            this.topla.TabIndex = 12;
+            this.topla.Text = "+";
+            this.topla.UseVisualStyleBackColor = true;
             // 
-            // button13
+            // cikar
             // 
-            this.button13.Location = new System.Drawing.Point(391, 272);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(64, 47);
-            this.button13.TabIndex = 13;
-            this.button13.Text = "button13";
-            this.button13.UseVisualStyleBackColor = true;
+            this.cikar.Location = new System.Drawing.Point(391, 272);
+            this.cikar.Name = "cikar";
+            this.cikar.Size = new System.Drawing.Size(64, 47);
+            this.cikar.TabIndex = 13;
+            this.cikar.Text = "-";
+            this.cikar.UseVisualStyleBackColor = true;
             // 
-            // button14
+            // bol
             // 
-            this.button14.Location = new System.Drawing.Point(391, 343);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(64, 47);
-            this.button14.TabIndex = 14;
-            this.button14.Text = "button14";
-            this.button14.UseVisualStyleBackColor = true;
+            this.bol.Location = new System.Drawing.Point(391, 343);
+            this.bol.Name = "bol";
+            this.bol.Size = new System.Drawing.Size(64, 47);
+            this.bol.TabIndex = 14;
+            this.bol.Text = "/";
+            this.bol.UseVisualStyleBackColor = true;
             // 
-            // button15
+            // carp
             // 
-            this.button15.Location = new System.Drawing.Point(391, 409);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(64, 47);
-            this.button15.TabIndex = 15;
-            this.button15.Text = "button15";
-            this.button15.UseVisualStyleBackColor = true;
+            this.carp.Location = new System.Drawing.Point(391, 409);
+            this.carp.Name = "carp";
+            this.carp.Size = new System.Drawing.Size(64, 47);
+            this.carp.TabIndex = 15;
+            this.carp.Text = "*";
+            this.carp.UseVisualStyleBackColor = true;
             // 
-            // button16
+            // esittir
             // 
-            this.button16.Location = new System.Drawing.Point(494, 343);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(64, 113);
-            this.button16.TabIndex = 16;
-            this.button16.Text = "button16";
-            this.button16.UseVisualStyleBackColor = true;
+            this.esittir.Location = new System.Drawing.Point(494, 343);
+            this.esittir.Name = "esittir";
+            this.esittir.Size = new System.Drawing.Size(64, 113);
+            this.esittir.TabIndex = 16;
+            this.esittir.Text = "=";
+            this.esittir.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -205,23 +205,23 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(729, 528);
-            this.Controls.Add(this.button16);
-            this.Controls.Add(this.button15);
-            this.Controls.Add(this.button14);
-            this.Controls.Add(this.button13);
-            this.Controls.Add(this.button12);
-            this.Controls.Add(this.button11);
-            this.Controls.Add(this.button10);
-            this.Controls.Add(this.button9);
-            this.Controls.Add(this.button8);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.esittir);
+            this.Controls.Add(this.carp);
+            this.Controls.Add(this.bol);
+            this.Controls.Add(this.cikar);
+            this.Controls.Add(this.topla);
+            this.Controls.Add(this.clear);
+            this.Controls.Add(this.sifir);
+            this.Controls.Add(this.dokuz);
+            this.Controls.Add(this.sekiz);
+            this.Controls.Add(this.yedi);
+            this.Controls.Add(this.alti);
+            this.Controls.Add(this.bes);
+            this.Controls.Add(this.dort);
+            this.Controls.Add(this.uc);
+            this.Controls.Add(this.iki);
+            this.Controls.Add(this.bir);
+            this.Controls.Add(this.Txt1);
             this.Font = new System.Drawing.Font("Myanmar Text", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.Name = "Form1";
@@ -233,23 +233,23 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.TextBox Txt1;
+        private System.Windows.Forms.Button bir;
+        private System.Windows.Forms.Button iki;
+        private System.Windows.Forms.Button uc;
+        private System.Windows.Forms.Button dort;
+        private System.Windows.Forms.Button bes;
+        private System.Windows.Forms.Button alti;
+        private System.Windows.Forms.Button yedi;
+        private System.Windows.Forms.Button sekiz;
+        private System.Windows.Forms.Button dokuz;
+        private System.Windows.Forms.Button sifir;
+        private System.Windows.Forms.Button clear;
+        private System.Windows.Forms.Button topla;
+        private System.Windows.Forms.Button cikar;
+        private System.Windows.Forms.Button bol;
+        private System.Windows.Forms.Button carp;
+        private System.Windows.Forms.Button esittir;
     }
 }
 
