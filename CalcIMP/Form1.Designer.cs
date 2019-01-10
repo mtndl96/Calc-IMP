@@ -49,10 +49,10 @@
             // 
             // Txt1
             // 
-            this.Txt1.Location = new System.Drawing.Point(172, 59);
+            this.Txt1.Location = new System.Drawing.Point(91, 43);
             this.Txt1.Multiline = true;
             this.Txt1.Name = "Txt1";
-            this.Txt1.Size = new System.Drawing.Size(346, 66);
+            this.Txt1.Size = new System.Drawing.Size(364, 66);
             this.Txt1.TabIndex = 0;
             // 
             // bir
@@ -63,6 +63,7 @@
             this.bir.TabIndex = 1;
             this.bir.Text = "1";
             this.bir.UseVisualStyleBackColor = true;
+            this.bir.Click += new System.EventHandler(this.bir_Click);
             // 
             // iki
             // 
@@ -72,6 +73,7 @@
             this.iki.TabIndex = 2;
             this.iki.Text = "2";
             this.iki.UseVisualStyleBackColor = true;
+            this.iki.Click += new System.EventHandler(this.iki_Click);
             // 
             // uc
             // 
@@ -81,6 +83,7 @@
             this.uc.TabIndex = 3;
             this.uc.Text = "3";
             this.uc.UseVisualStyleBackColor = true;
+            this.uc.Click += new System.EventHandler(this.uc_Click);
             // 
             // dort
             // 
@@ -90,6 +93,7 @@
             this.dort.TabIndex = 4;
             this.dort.Text = "4";
             this.dort.UseVisualStyleBackColor = true;
+            this.dort.Click += new System.EventHandler(this.dort_Click);
             // 
             // bes
             // 
@@ -99,6 +103,7 @@
             this.bes.TabIndex = 5;
             this.bes.Text = "5";
             this.bes.UseVisualStyleBackColor = true;
+            this.bes.Click += new System.EventHandler(this.bes_Click);
             // 
             // alti
             // 
@@ -108,6 +113,7 @@
             this.alti.TabIndex = 6;
             this.alti.Text = "6";
             this.alti.UseVisualStyleBackColor = true;
+            this.alti.Click += new System.EventHandler(this.alti_Click);
             // 
             // yedi
             // 
@@ -117,6 +123,7 @@
             this.yedi.TabIndex = 7;
             this.yedi.Text = "7";
             this.yedi.UseVisualStyleBackColor = true;
+            this.yedi.Click += new System.EventHandler(this.yedi_Click);
             // 
             // sekiz
             // 
@@ -126,6 +133,7 @@
             this.sekiz.TabIndex = 8;
             this.sekiz.Text = "8";
             this.sekiz.UseVisualStyleBackColor = true;
+            this.sekiz.Click += new System.EventHandler(this.sekiz_Click);
             // 
             // dokuz
             // 
@@ -135,6 +143,7 @@
             this.dokuz.TabIndex = 9;
             this.dokuz.Text = "9";
             this.dokuz.UseVisualStyleBackColor = true;
+            this.dokuz.Click += new System.EventHandler(this.dokuz_Click);
             // 
             // sifir
             // 
@@ -144,6 +153,7 @@
             this.sifir.TabIndex = 10;
             this.sifir.Text = "0";
             this.sifir.UseVisualStyleBackColor = true;
+            this.sifir.Click += new System.EventHandler(this.sifir_Click);
             // 
             // clear
             // 
@@ -153,6 +163,7 @@
             this.clear.TabIndex = 11;
             this.clear.Text = "C";
             this.clear.UseVisualStyleBackColor = true;
+            this.clear.Click += new System.EventHandler(this.clear_Click);
             // 
             // topla
             // 
@@ -162,6 +173,7 @@
             this.topla.TabIndex = 12;
             this.topla.Text = "+";
             this.topla.UseVisualStyleBackColor = true;
+            this.topla.Click += new System.EventHandler(this.topla_Click);
             // 
             // cikar
             // 
