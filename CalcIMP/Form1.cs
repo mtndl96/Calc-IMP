@@ -17,7 +17,11 @@ namespace CalcIMP
             InitializeComponent();
         }
 
-        private void bir_Click(object sender, EventArgs e)
+        private void genel_Click(object sender, EventArgs e)
+        {
+            Txt1.Text = "1";
+        }
+		private void bir_Click(object sender, EventArgs e)
         {
             Txt1.Text = "1";
         }

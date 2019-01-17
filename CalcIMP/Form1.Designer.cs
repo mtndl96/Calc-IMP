@@ -63,7 +63,7 @@
             this.bir.TabIndex = 1;
             this.bir.Text = "1";
             this.bir.UseVisualStyleBackColor = true;
-            this.bir.Click += new System.EventHandler(this.bir_Click);
+            this.bir.Click += new System.EventHandler(this.genel_Click);
             // 
             // iki
             // 
